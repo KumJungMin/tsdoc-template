@@ -4,7 +4,11 @@
   "main": "index.js",
   "author": "",
   "license": "MIT",
+  "scripts": {
+    "serve": "http-server -o ./docs/index.html"
+  },
   "devDependencies": {
+    "http-server": "^14.1.1",
     "typedoc": "^0.24.1",
     "typescript": "^4.5.4"
   }
