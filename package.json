@@ -2,7 +2,10 @@
   "name": "tsdoc-template",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/KumJungMin/tsdoc-template.git",
-  "author": "KumJungMin <rmawjdals@naver.com>",
-  "license": "MIT"
+ 
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.5.4"
+  }
 }
